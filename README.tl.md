@@ -1,6 +1,6 @@
-![Jasheroke for Windows](assets/jasheroke-windows-banner.png)
-
 # Jasheroke para sa Windows
+
+<img width="1672" height="941" alt="WINDOWS" src="https://github.com/user-attachments/assets/aa51e2e5-c803-4d3b-b5f5-be4dcc715acc" />
 
 **Bersyon 1.3.0** | StackSync Solutions
 
