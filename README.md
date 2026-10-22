@@ -2,7 +2,7 @@
 
 <img width="1672" height="941" alt="WINDOWS" src="https://github.com/user-attachments/assets/f6de210d-3eb5-4f5f-a41a-9d5e2d27a14e" />
 
-**Version 1.3.0** | StackSync Solutions
+**Version 1.4.0** | StackSync Solutions
 
 English | [Tagalog](README.tl.md)
 
